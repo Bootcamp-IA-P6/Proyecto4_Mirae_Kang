@@ -69,5 +69,4 @@ This project follows a strict task-based branching model to maintain code integr
 
 ---
 
-Created by: Mirae Kang
-Submission Date: February 10, 2026
+Created by: Mirae Kang | Submission Date: February 10, 2026
